@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xoudhury&label=Profile%20views&color=0e75b6&style=flat" alt="xoudhury" /> </p>
 
-<p align="left"> <a href="https://twitter.com/itskekc" target="blank"><img src="https://img.shields.io/twitter/follow/itskekc?logo=twitter&style=for-the-badge" alt="itskekc" /></a> </p>
+<!--p align="left"> <a href="https://twitter.com/itskekc" target="blank"><img src="https://img.shields.io/twitter/follow/itskekc?logo=twitter&style=for-the-badge" alt="itskekc" /></a> </p-->
 
 - 🌱 I’m currently learning **GitHub**
 
